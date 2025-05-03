@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+	<basicsettings>
+		<hash_algorithm>s256</hash_algorithm>
+		<package_maxsize>0</package_maxsize>
+		<package_maxfiles>0</package_maxfiles>
+		<check_maxsize>0</check_maxsize>
+		<check_maxfiles>0</check_maxfiles>
+		<password>password</password>
+	</basicsettings>
+	<combosettings>
+		<targetrange>
+			<value>System A</value>
+			<value>System B</value>
+		</targetrange>
+		<workername>
+			<value>System Department 1 - Taro A</value>
+			<value>System Department 2 - Biko</value>
+		</workername>
+		<terminalname>
+			<value>Management Number 001</value>
+			<value>Management Number 002</value>
+		</terminalname>
+	</combosettings>
+</settings>
